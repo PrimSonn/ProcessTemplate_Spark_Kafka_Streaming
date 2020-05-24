@@ -1,0 +1,16 @@
+TODO list (stack):
+    1. ignite offset management
+        - transaction
+        - separate offset tracking
+        - reload and process offset
+    2. version compatibility between spark kafka integration
+        - parameters
+        - linking
+    3. shutdown hook driver with resource user interface
+    4. JSON processing
+        - basic ser/de
+        - ignite integration
+    5. SimpleKafkaSourceConfig implementation (curr name: stubSource..)
+    6. SimpleKafkaTargetConfig implementation
+    7. SimpleManagerConfigProvider implementation
+    7. SimpleManagerConfig implementation
