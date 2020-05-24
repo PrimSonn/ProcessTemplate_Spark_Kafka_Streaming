@@ -297,3 +297,6 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+/.idea/
+src/main/resources/
+src/test/
